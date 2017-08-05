@@ -1,2 +1,2 @@
 # html-css-javascript-fullstack-course4
-Assignments to be done for html css javascript fullstack-course4 on coursera.org
+Repo for the assignments to be done for the "html, css, javascript" fullstack-course4 on coursera.org.
