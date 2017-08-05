@@ -19,4 +19,4 @@ Here is a _list of the assignments_, so one can view them as a webpage.
 
 5. [__Assignment-5__]
 
-[Here is the link for GitHub basic writting and formatting syntax.](https://help.github.com/articles/basic-writing-and-formatting-syntax/).
+[Here is the link for GitHub basic writting and formatting syntax.] <a href="https://help.github.com/articles/basic-writing-and-formatting-syntax/"  target="_blank">example</a>
