@@ -1,9 +1,9 @@
 # html-css-javascript-fullstack-course4
 Repo for the assignments to be done for the "HTML, CSS, and Javascript for Web Developers" fullstack-course4 on coursera.org.
 
-## Into to HTML, CSS, and Javascript
+## Intro to HTML, CSS, and Javascript
 
-Repo for the assignments to be done for coursera.org course, "__Introduction to AngularJS__" taught by Yaakov Chaikin, https://www.coursera.org/learn/single-page-web-apps-with-angularjs/home/welcome.
+Repo for the assignments to be done for coursera.org course, "__HTML, CSS, and Javascript for Web Developers__" taught by Yaakov Chaikin, https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome.
 
 The URL for this repo is [__ https://hristian-carabulea.github.io/html-css-javascript-fullstack-course4/__]( https://hristian-carabulea.github.io/html-css-javascript-fullstack-course4/).
 
