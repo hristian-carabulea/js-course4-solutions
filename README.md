@@ -5,7 +5,7 @@ Repo for the assignments to be done in the "HTML, CSS, and Javascript for Web De
 
 Repo for the assignments to be done for coursera.org course, "__HTML, CSS, and Javascript for Web Developers__" taught by Yaakov Chaikin, https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome.
 
-The URL for this repo is [__https://hristian-carabulea.github.io/html-css-javascript-fullstack-course4/__]( https://hristian-carabulea.github.io/html-css-javascript-fullstack-course4/).
+The URL for this repo is [__https://innotechtoday.com/home-sweet-3d-printed-home/__]( https://hristian-carabulea.github.io/html-css-javascript-fullstack-course4/).
 
 Here is a _list of the assignments_, so one can view them as a webpage. 
 
