@@ -5,7 +5,7 @@ Repo for the assignments to be done in the "HTML, CSS, and Javascript for Web De
 
 Repo for the assignments to be done for coursera.org course, "__HTML, CSS, and Javascript for Web Developers__" taught by Yaakov Chaikin, https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome.
 
-The URL for this repo is [__https://hristian-carabulea.github.io/js-course4-solutions/__]( https://hristian-carabulea.github.io/js-course4-solutions/).
+The URL for this repo is [__https://hristian-carabulea.github.io/course4-js-solutions/__]( https://hristian-carabulea.github.io/course4-js-solutions/).
 
 Here is a _list of the assignments_, so one can view them as a webpage. 
 
